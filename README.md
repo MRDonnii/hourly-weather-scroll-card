@@ -1,5 +1,7 @@
 # Hourly Weather Scroll Card
 
+Alle vejr-SVG'er er indlejret i `hourly-weather-scroll-card-assets.js`, som HACS downloader sammen med hovedkortet. Ved manuel installation skal begge JavaScript-filer kopieres til samme mappe; en separat `/local/weathericon`-mappe er ikke nødvendig.
+
 ## Neutral mobile preview
 
 ![Neutral mobile preview of hourly-weather-scroll-card](docs/preview.png)
