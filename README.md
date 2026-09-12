@@ -1,5 +1,12 @@
 # Hourly Weather Scroll Card
 
+## Neutral mobile preview
+
+![Neutral mobile preview of hourly-weather-scroll-card](docs/preview.png)
+
+> Rendered at 390 px mobile width with fictional Home Assistant entities and values. No private dashboard, person, address, camera, or sensor data is included.
+
+
 Kompakt, ikke-klikbar time-for-time vejrudsigt du kan trække vandret igennem (mus eller touch), i stedet for et fast antal synlige timer. Læser `attributes.hourly_forecast` fra en vejr-sensor.
 
 ```yaml
